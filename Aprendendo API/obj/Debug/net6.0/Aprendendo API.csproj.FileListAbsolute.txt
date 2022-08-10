@@ -1,0 +1,27 @@
+C:\Users\Teixeiras\source\repos\Aprendendo API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Teixeiras\source\repos\Aprendendo API\bin\Debug\net6.0\appsettings.json
+C:\Users\Teixeiras\source\repos\Aprendendo API\bin\Debug\net6.0\Aprendendo API.exe
+C:\Users\Teixeiras\source\repos\Aprendendo API\bin\Debug\net6.0\Aprendendo API.deps.json
+C:\Users\Teixeiras\source\repos\Aprendendo API\bin\Debug\net6.0\Aprendendo API.runtimeconfig.json
+C:\Users\Teixeiras\source\repos\Aprendendo API\bin\Debug\net6.0\Aprendendo API.dll
+C:\Users\Teixeiras\source\repos\Aprendendo API\bin\Debug\net6.0\Aprendendo API.pdb
+C:\Users\Teixeiras\source\repos\Aprendendo API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Teixeiras\source\repos\Aprendendo API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Teixeiras\source\repos\Aprendendo API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Teixeiras\source\repos\Aprendendo API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Teixeiras\source\repos\Aprendendo API\obj\Debug\net6.0\Aprendendo API.csproj.AssemblyReference.cache
+C:\Users\Teixeiras\source\repos\Aprendendo API\obj\Debug\net6.0\Aprendendo API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teixeiras\source\repos\Aprendendo API\obj\Debug\net6.0\Aprendendo API.AssemblyInfoInputs.cache
+C:\Users\Teixeiras\source\repos\Aprendendo API\obj\Debug\net6.0\Aprendendo API.AssemblyInfo.cs
+C:\Users\Teixeiras\source\repos\Aprendendo API\obj\Debug\net6.0\Aprendendo API.csproj.CoreCompileInputs.cache
+C:\Users\Teixeiras\source\repos\Aprendendo API\obj\Debug\net6.0\Aprendendo API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Teixeiras\source\repos\Aprendendo API\obj\Debug\net6.0\Aprendendo API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Teixeiras\source\repos\Aprendendo API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Teixeiras\source\repos\Aprendendo API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Teixeiras\source\repos\Aprendendo API\obj\Debug\net6.0\scopedcss\bundle\Aprendendo API.styles.css
+C:\Users\Teixeiras\source\repos\Aprendendo API\obj\Debug\net6.0\Aprendendo API.csproj.CopyComplete
+C:\Users\Teixeiras\source\repos\Aprendendo API\obj\Debug\net6.0\Aprendendo API.dll
+C:\Users\Teixeiras\source\repos\Aprendendo API\obj\Debug\net6.0\refint\Aprendendo API.dll
+C:\Users\Teixeiras\source\repos\Aprendendo API\obj\Debug\net6.0\Aprendendo API.pdb
+C:\Users\Teixeiras\source\repos\Aprendendo API\obj\Debug\net6.0\Aprendendo API.genruntimeconfig.cache
+C:\Users\Teixeiras\source\repos\Aprendendo API\obj\Debug\net6.0\ref\Aprendendo API.dll
